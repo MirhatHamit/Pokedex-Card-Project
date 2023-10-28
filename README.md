@@ -1,3 +1,6 @@
+
+![ezgif com-video-to-gif (2)](https://github.com/MirhatHamit/Pokedex-Card-Project/assets/138917060/fecdb3b1-f056-4688-a972-fd9f674aaab8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
